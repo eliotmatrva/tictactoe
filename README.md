@@ -2,6 +2,12 @@
 A simple react web based tictactoe game
 
 <h2>Instructions:</h2>
+1. Download the files
+2. Run a local server for the downloaded files
+3. Go to the local server address in your favorite modern browser
+4. Play the game!
+
+<h2>Game Rules</h2>
 The game follows general tictactoe rules:
 Players take turns clicking a box to make their mark (X for player 1 and O for player 2).
 The goal for player one is to have all X marks through one column or in one row.
