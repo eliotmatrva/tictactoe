@@ -2,9 +2,9 @@
 A simple react web based tictactoe game
 
 <h2>Instructions:</h2>
-1. Download the files
-2. Run a local server for the downloaded files
-3. Go to the local server address in your favorite modern browser
+1. Download the files<br />
+2. Run a local server for the downloaded files<br />
+3. Go to the local server address in your favorite modern browser<br />
 4. Play the game!
 
 <h2>Game Rules</h2>
